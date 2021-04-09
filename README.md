@@ -1,6 +1,6 @@
 # python_challenge
-Python (week 3) homework
-This project is currently INCOMPLETE
+Python (week 3) homework.
+This project is currently INCOMPLETE.
 I apologize.
 I will continue finishing this and cleaning it up while working in tandem with the other homework projects.
 I will resubmit as soon as this is finished.
